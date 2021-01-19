@@ -41,13 +41,8 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`id`, `name`, `course`, `phone`, `email`, `status`) VALUES
-(26, 'Aman sagar', 'BTECH', 9568654516, 'Amansagarjet@gmail.com', NULL),
-(27, 'kapil sagar', 'BTECH', 9568654516, 'Happysagarjet@gmail.com', NULL),
-(28, 'Ayush sagar', 'BTECH', 9568654516, 'Amansagarjet@gmail.com', NULL),
-(29, 'kapil sagar', 'Btech', 123545, 'admin@gmial.com', NULL),
-(30, 'Kapil sagar', 'BTECH', 7037323632, 'Amansagarjet@gmail.com', NULL),
-(31, 'Ram Singh ratupura', 'BCA', 9568654516, 'admin@gmial.com', NULL),
-(32, 'Pankaj Kannaujiya 1', 'BTECH', 7037323632, 'Happysagarjet@gmail.com', NULL);
+(26, 'sagar', 'BTECH', 9563454516, 'Aman@gmail.com', NULL),
+
 
 --
 -- Indexes for dumped tables
